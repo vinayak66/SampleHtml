@@ -66,8 +66,231 @@
     margin-top: 20px;
 }
    
-@media(min-width: 992px){
+/* @media(min-width: 992px){
     .homepage-container{
         max-width: 940px;
     }
+}
+
+.sample-div, .row-div, .col-divs{
+    border: 2px solid red;
+    padding: 5px;
+}
+
+.sample-div{
+    margin-bottom: 200px
+}
+
+.row-div{
+    border-color: blue;
+    margin-left: 0px;
+    margin-right: 0px;
+} */
+
+.col-divs{
+    border-color: green;
+    height: 200px;
+}
+._1whfp2yNaN {
+    border: 0px !important;
+    padding: 0px !important;
+    margin: 0px !important;
+    background-color: transparent !important;
+    position: absolute !important;
+    left: 50% !important;
+    background-image: url(https://cdn.kastatic.org/images/marketing-content/button-background-orange.png) !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: cover !important;
+    height: 75px !important;
+    width: 91px !important;
+    transform: translateX(-50%) !important;
+    cursor: pointer !important;
+}
+.second-section
+{
+ background-color:#F7F5F4;
+ margin-top: 60px;   
+
+}
+.h2-style {
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    color: #21242c !important;
+    display: block !important;
+    font-family: 'Source Serif Pro', 'Noto Serif', serif !important;
+    font-size: 30px !important;
+    font-weight: 600 !important;
+    line-height: 100px !important;
+    letter-spacing: -0.1px !important;
+    margin: -40px auto 0 !important;
+    padding: 45px 0 85px !important;
+    text-align: center !important;
+    max-width: 800px !important;
+}
+.h3-style
+{
+        -webkit-font-smoothing: antialiased !important;
+        -moz-osx-font-smoothing: grayscale !important;
+        margin-top: 0px !important;
+        margin-bottom: 0px !important;
+        color: #21242c !important;
+        display: block !important;
+        font-family: 'Source Serif Pro', 'Noto Serif', serif !important;
+        font-size: 25px !important;
+        font-weight: 400 !important;
+        line-height: 30px !important;
+        letter-spacing: -0.1px !important;
+        margin: 0 0 20px 0 !important;
+    
+}
+.img-btn
+{
+    margin:0 auto;
+    width: 60px;
+    height:60px ;
+}
+.center-align{
+    min-width: 100vh;
+    display: flex;
+    justify-content: centers;
+    cursor: pointer;
+}
+.h6-sub
+{ 
+   
+    webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    display: block !important;
+    font-family: Lato, 'Noto Sans', sans-serif !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    line-height: 18px !important;
+    letter-spacing: 0.1em !important;
+    color: rgba(33, 36, 44, 0.64) !important;
+    margin: 10 0 107px 0 !important;  
+}
+.font-sub
+{
+    
+    margin-top: 0px !important;
+    margin-bottom: 20px !important;
+    color: #21242c !important;
+    display: block !important;
+    font-family: 'Source Serif Pro', 'Noto Serif', serif !important;
+    font-size: 40px !important;
+    font-weight: 600 !important;
+    line-height: 35px !important;
+    letter-spacing: -0.1px !important;
+    text-indent: -0.35em !important;
+}
+
+.h6-small
+{   
+    margin-top: 100px
+    display: block !important;
+    font-family: Lato, 'Noto Sans', sans-serif !important;
+    font-size: 12px;
+    opacity: .4;
+    letter-spacing: -0.1px !important;
+    margin-bottom:30px;
+}
+.h3-sub
+{
+    color: #21242c !important;
+    display: block !important;
+    font-family: Lato, 'Noto Sans', sans-serif !important;
+    font-size: 18px !important;
+    line-height: 30px
+    opacity: .9;
+    margin-right:40px;
+    margin-bottom:15px;
+    
+}
+.h6-175
+{
+    margin-top: 10px;
+    display: block !important;
+    font-family: Lato, 'Noto Sans', sans-serif !important;
+    font-size: 12px;
+    opacity: .4;
+    letter-spacing: -0.1px !important;
+      margin-bottom:20px;   
+}
+.button-179
+{
+    webkit-box-pack: center !important;
+    -ms-flex-pack: center !important;
+    -webkit-box-align: center !important;
+    -ms-flex-align: center !important;
+    position: relative !important;
+    display: -webkit-inline-box !important;
+    display: -moz-inline-box !important;
+    display: -ms-inline-flexbox !important;
+    display: -webkit-inline-flex !important;
+    display: inline-flex !important;
+    -webkit-align-items: center !important;
+    align-items: center !important;
+    -webkit-justify-content: center !important;
+    justify-content: center !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    border: none !important;
+    border-radius: 4px !important;
+    cursor: pointer !important;
+    outline: none !important;
+    text-decoration: none !important;
+    -moz-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    -ms-touch-action: manipulation !important;
+    touch-action: manipulation !important;
+    -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important;
+    background: #1865f2 !important;
+    color: #ffffff !important;
+    padding-left: 32px !important;
+    padding-right: 32px !important;
+    height: 60px !important;
+    
+}
+.img-159
+{
+    width: 100%;
+    margin-bottom: 100px;
+}
+.h1-193
+{
+    webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    margin-top: 0px !important;
+    margin-bottom: 46px !important;
+    padding-right: 10px;
+    color: #21242c !important;
+    display: block !important;
+    font-family: 'Source Serif Pro', 'Noto Serif', serif !important;
+    font-size: 55px !important;
+    font-weight: 600 !important;
+    line-height: 50px !important;
+    letter-spacing: -0.1px !important;
+}
+.h3-196
+{
+ margin-bottom: 46px;
+}
+.fourth-section
+{
+ background-color:#F7F5F4;
+ width: 100%; 
+
+}
+.h2-215
+{    
+background-color:#F7F5F4;
+font-size: 28px;
+opacity: .9;
+margin-top: 10rem;
 }
