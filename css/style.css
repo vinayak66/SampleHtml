@@ -59,6 +59,7 @@
 .img
 {
     width: 100%;
+  
 }
 .container 
 {
@@ -110,7 +111,7 @@
 .second-section
 {
  background-color:#F7F5F4;
- margin-top: 60px;   
+ margin-top: 5px;   
 
 }
 .h2-style {
@@ -148,16 +149,15 @@
 }
 .img-btn
 {
+    min-width: 10vh;
+    display: flex;
+    cursor: pointer;
     margin:0 auto;
+    margin-top: 150px;
     width: 60px;
     height:60px ;
 }
-.center-align{
-    min-width: 100vh;
-    display: flex;
-    justify-content: centers;
-    cursor: pointer;
-}
+
 .h6-sub
 { 
    
@@ -172,6 +172,7 @@
     color: rgba(33, 36, 44, 0.64) !important;
     margin: 10 0 107px 0 !important;  
 }
+
 .font-sub
 {
     
@@ -220,7 +221,7 @@
       margin-bottom:20px;   
 }
 .button-179
-{
+{   
     webkit-box-pack: center !important;
     -ms-flex-pack: center !important;
     -webkit-box-align: center !important;
@@ -294,3 +295,180 @@ font-size: 28px;
 opacity: .9;
 margin-top: 10rem;
 }
+
+  .button-255{
+        webkit-box-pack: center !important;
+    -ms-flex-pack: center !important;
+    -webkit-box-align: center !important;
+    -ms-flex-align: center !important;
+    position: relative !important;
+    display: -webkit-inline-box !important;
+    display: -moz-inline-box !important;
+    display: -ms-inline-flexbox !important;
+    display: -webkit-inline-flex !important;
+    display: inline-flex !important;
+    -webkit-align-items: center !important;
+    align-items: center !important;
+    -webkit-justify-content: center !important;
+    justify-content: center !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    border: none !important;
+    border-radius: 4px !important;
+    cursor: pointer !important;
+    outline: none !important;
+    text-decoration: none !important;
+    -moz-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    -ms-touch-action: manipulation !important;
+    touch-action: manipulation !important;
+    -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important;
+    background: #1865f2 !important;
+    color: #ffffff !important;
+    padding-left: 32px !important;
+    padding-right: 32px !important;
+    height: 60px !important;
+    width:200px;
+    background-image: url("bg.PNG");
+      
+       
+    }
+    
+.section-226
+{
+
+    background-color:#F7F5F4;
+    width: 100%;   
+    margin-top: 100px; 
+}
+.h1-228
+{
+    margin-top: 100px;
+    font-size: 20px;
+}
+.img-229
+{
+   
+    margin-bottom: 50px;
+
+}
+.img-231
+{
+    margin-top:20px ;
+}
+.footer{
+    background-color: blue;
+}
+.footer-para{
+    color: rgb(160, 155, 219);
+    max-width: 400px;
+    font-size: 21px;
+    float: left;
+    margin-left: 90px;
+    z-index: 2;
+}
+.footer-ul-1{
+  color: white;
+  padding-left: 100px;
+  float: left;
+  z-index: 1;
+  
+  
+  
+  
+  }
+.footer-ul-1 ul {
+  margin-left: 400px;
+  list-style: none;
+  max-width: 200px;
+  padding-top : 200px;
+  
+}
+.footer-ul-1 ul li{
+  color: white;
+  font-size: 13px;
+}
+
+
+.footer-ul-2{
+  color: white;
+  
+  }
+.footer-ul-2 ul {
+  margin-left: 800px;
+  list-style: none;
+  max-width: 200px;
+  padding-bottom: 500px;
+  
+  
+}
+.footer-ul-2 ul li{
+  color: white;
+  font-size: 13px;
+  
+}
+.c-206
+{
+    
+    background-image: url("/asset/bg.PNG");
+    background-position: top;
+    padding-bottom: 100px;
+    
+}
+
+.quote{
+    background-color: #F7F5F4;
+}
+.quote-para{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.anjali{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 500px;
+    
+    font-family: 'Times New Roman', Times, serif;
+}
+.imgage{
+    margin-right: 100px;
+    float: right;
+    
+}
+.sec-240
+{
+    background-color: #F7F5F4;
+    
+    
+}
+.h1-228
+{
+    font-size: 30px;
+    margin-bottom: 40px;
+
+}
+.img-237
+{
+   
+    width: 150px !important;
+    height: 30.2px !important;
+    margin-bottom: 50px;  
+ }
+ .h2-237
+ {
+    
+     margin-bottom: 100px;
+ }
+ .img-260
+ {
+    width: 100px !important;
+    height: 22.1px !important;
+    margin-bottom:100px;
+    
+    
+ }
