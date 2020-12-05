@@ -286,14 +286,25 @@
 {
  background-color:#F7F5F4;
  width: 100%; 
+ margin-bottom: 20px;
 
+
+}
+.image{
+   margin-top: 60px;
+   text-align: right;
+   margin-right: -600px;
+   padding-bottom: 110px;
 }
 .h2-215
 {    
-background-color:#F7F5F4;
-font-size: 28px;
-opacity: .9;
-margin-top: 10rem;
+
+font-size: 30px;
+height: 43px;
+margin-top: 150px;
+margin-left: 20px;
+text-align: left;
+padding-left: 100px;
 }
 
   .button-255{
@@ -472,3 +483,60 @@ margin-top: 10rem;
     
     
  }
+ .vertical-seccode
+ {
+     display: flex;
+     justify-content: center;
+     
+     align-items: center;
+
+ }
+ .hr-sec{
+     color: red;
+
+ }
+
+ body{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    padding-left: 30px;
+    padding-right: 26px;
+    margin-left: 50px;
+    height: 20px;
+    width: 200px;
+}
+li{
+    color:white;
+}
+.footerfonts{
+    font-size: x-small;
+
+}
+.fontsection1{
+    /* font-family: 'Source Serif Pro', serif; */
+    font-size: 53px;
+}
+.fontsection2{
+    /* font-family: 'Source Serif Pro', serif; */
+    font-size: 44px;
+}
+.fontsection3{
+    /* font-family: 'Source Serif Pro', serif; */
+    font-size: 53px;
+}
+h2,h1,h3{
+   font-family: 'Source Serif Pro', 'Noto Serif', serif !important;
+}
+.line-60{
+  margin-top: 0;
+}
+.signup-43{
+    margin-right: 97px;
+}
+.logo1{
+    align-items: center;
+    cursor: pointer;
+}
