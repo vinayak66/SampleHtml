@@ -1,6 +1,9 @@
 .text
-{
+{   
+   
     color: #1865f2 !important;
+    
+  
 }
 .head
 {
@@ -10,7 +13,8 @@
 .text-sub
 {
   font-size: 20px;
-  opacity: 0.8;  
+ font-size: 15px;
+ margin-bottom: 5px;
 }
 .text-head
 {
@@ -20,7 +24,7 @@
     line-height: 50px !important;
 }
 .button
- {
+{
     -webkit-box-pack: center !important;
     -ms-flex-pack: center !important;
     -webkit-box-align: center !important;
@@ -55,10 +59,16 @@
     color: #ffffff !important;
     padding-left: 16px !important;
     padding-right: 16px !important;
+    margin-top:20px ;
+}
+.button-sec
+{
+    margin-top: 10px;
 }
 .img
 {
     width: 100%;
+    
   
 }
 .container 
@@ -111,7 +121,8 @@
 .second-section
 {
  background-color:#F7F5F4;
- margin-top: 5px;   
+ margin-top: 5px; 
+   
 
 }
 .h2-style {
@@ -291,10 +302,11 @@
 
 }
 .image{
-   margin-top: 60px;
-   text-align: right;
-   margin-right: -600px;
-   padding-bottom: 110px;
+    margin-right:10px ;
+   margin-top: 90px;
+   margin-left: 20px;
+   
+   
 }
 .h2-215
 {    
@@ -302,9 +314,9 @@
 font-size: 30px;
 height: 43px;
 margin-top: 150px;
-margin-left: 20px;
-text-align: left;
+
 padding-left: 100px;
+margin-bottom: 150px;
 }
 
   .button-255{
@@ -537,6 +549,6 @@ h2,h1,h3{
     margin-right: 97px;
 }
 .logo1{
-    align-items: center;
+    opacity: 0;
     cursor: pointer;
 }
