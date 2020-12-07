@@ -165,13 +165,14 @@
     cursor: pointer;
     margin:0 auto;
     margin-top: 150px;
+    margin-bottom: 50px;
     width: 60px;
     height:60px ;
 }
 
 .h6-sub
 { 
-   
+    margin-bottom: 20px;
     webkit-font-smoothing: antialiased !important;
     -moz-osx-font-smoothing: grayscale !important;
     display: block !important;
@@ -211,11 +212,12 @@
 }
 .h3-sub
 {
+    font-size: 5px;
     color: #21242c !important;
     display: block !important;
     font-family: Lato, 'Noto Sans', sans-serif !important;
-    font-size: 18px !important;
-    line-height: 30px
+    font-size: 17px !important;
+    line-height: 30px;
     opacity: .9;
     margin-right:40px;
     margin-bottom:15px;
@@ -291,6 +293,8 @@
 }
 .h3-196
 {
+    font-size: 20px ;
+    line-height: 22px;   
  margin-bottom: 46px;
 }
 .fourth-section
@@ -485,7 +489,7 @@ margin-bottom: 150px;
  .h2-237
  {
     
-     margin-bottom: 100px;
+     margin-bottom: 80px;
  }
  .img-260
  {
@@ -524,8 +528,11 @@ li{
     color:white;
 }
 .footerfonts{
-    font-size: x-small;
+    font-size: 12px;
 
+}
+.footer_line{
+    margin-left: 15em;
 }
 .fontsection1{
     /* font-family: 'Source Serif Pro', serif; */
@@ -539,6 +546,10 @@ li{
     /* font-family: 'Source Serif Pro', serif; */
     font-size: 53px;
 }
+._cildren-171{
+    padding-top: 5em;
+    padding-left: 5em;
+}
 h2,h1,h3{
    font-family: 'Source Serif Pro', 'Noto Serif', serif !important;
 }
@@ -547,6 +558,31 @@ h2,h1,h3{
 }
 .signup-43{
     margin-right: 97px;
+}
+._eib2kdk {
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    color: #21242c !important;
+    display: block !important;
+    font-family: 'Source Serif Pro', 'Noto Serif', serif !important;
+    font-size: 23px !important;
+    font-weight: 400 !important;
+    line-height: 30px !important;
+    letter-spacing: -0.1px !important;
+    margin: 0 0 20px 0 !important;
+}
+._1jhgniwy {
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    color: #21242c !important;
+    display: block !important;
+    font-family: Lato, 'Noto Sans', sans-serif !important;
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    line-height: 26px !important;
+    letter-spacing: -0.1px !important;
 }
 .logo1{
     opacity: 0;
