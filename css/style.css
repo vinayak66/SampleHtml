@@ -1,3 +1,35 @@
+.placeholder { 
+    color: red;
+    opacity: 1;
+  }
+  .img
+{
+    width: 80%;
+    
+    
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .text
 {   
    
@@ -10,21 +42,31 @@
    margin-top: 100px;
 
 }
+@media screen and (max-width: 566px)
+{}
 .text-sub
 {
-  font-size: 20px;
+  font-size: 17px;
  font-size: 15px;
  margin-bottom: 5px;
+ 
 }
 .text-head
-{
-    font-family: 'Source Serif Pro', 'Noto Serif', serif !important;
-    font-size: 45px !important;
+{   
+    vertical-align: text-bottom;
+    font-family: 'Source Serif Pro', 'Noto Serif';
+    font-size: 40px !important;
     font-weight: 600 !important;
-    line-height: 50px !important;
+    line-height: 45px !important;
+    display: inline;
+    font-size: 100%;
+   
+    
+   
 }
 .button
 {
+    display: inline-block;
     -webkit-box-pack: center !important;
     -ms-flex-pack: center !important;
     -webkit-box-align: center !important;
@@ -65,12 +107,7 @@
 {
     margin-top: 10px;
 }
-.img
-{
-    width: 100%;
-    
-  
-}
+
 .container 
 {
     
@@ -122,6 +159,7 @@
 {
  background-color:#F7F5F4;
  margin-top: 5px; 
+ 
    
 
 }
@@ -185,6 +223,12 @@
     margin: 10 0 107px 0 !important;  
 }
 
+@media screen and (min-width: 768px){
+.font-sub {
+    font-size: 44px !important;
+    line-height: 48px !important;
+}
+}
 .font-sub
 {
     
@@ -194,11 +238,50 @@
     display: block !important;
     font-family: 'Source Serif Pro', 'Noto Serif', serif !important;
     font-size: 40px !important;
-    font-weight: 600 !important;
+    
     line-height: 35px !important;
-    letter-spacing: -0.1px !important;
-    text-indent: -0.35em !important;
+    letter-spacing: -0.9px !important;
+    font-weight: 600;
+    
 }
+
+.join-academy-section{
+    padding: 0px 15px;
+}
+
+@media(min-width: 768px){
+    .font-sub{
+        text-indent: -0.60em;
+    }
+}
+
+.p-why-sec
+{
+    font-size: 30px;
+    line-height: 35px;
+    font-family: 'Source Serif Pro', 'Noto Serif', serif;
+    letter-spacing: -0.1px 
+}
+
+@media screen and (max-width: 567px){
+    .smallpara {
+        font-size: 14px ;
+        line-height: 22px ;
+    }
+    
+
+}
+.smallpara {
+    font-size: 13px ;
+    line-height: 22px ;
+    letter-spacing: -0.1px
+}
+
+.imgfor3sec2
+{
+    padding-bottom: 200px;
+}
+
 
 .h6-small
 {   
@@ -469,6 +552,8 @@ margin-bottom: 150px;
 }
 .sec-240
 {
+    margin-bottom: 0%;
+    background-color: red;
     background-color: #F7F5F4;
     
     
@@ -588,3 +673,16 @@ h2,h1,h3{
     opacity: 0;
     cursor: pointer;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+

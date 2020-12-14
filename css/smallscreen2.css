@@ -1,0 +1,75 @@
+body{
+  padding:0;
+  margin:0;
+}
+h1,h2,h3{
+  font-size: 30px !important;
+    line-height: 31px !important;
+    color: #21242c !important;
+    display: block !important;
+    font-family: 'Source Serif Pro', 'Noto Serif', serif !important;
+    font-weight: 600 !important;
+}
+p{
+  font-size:14px;
+  line-height: 22px !important;
+  font-family: Lato, 'Noto Sans', sans-serif !important;
+  font-weight: 400 !important;
+  letter-spacing: -0.1px !important;
+}
+
+.ka-mainlogosm{
+  margin-left: 0;
+}
+.smdeviceh1{
+  font-size: 30px;
+}
+.smdeviceh2{
+  font-size: 30px;
+}
+.smdevicesupport{
+  font-size: 22px;
+}
+.ka-subheading{
+  -moz-osx-font-smoothing: grayscale !important;
+  display: block !important;
+  font-family: Lato, 'Noto Sans', sans-serif !important;
+  font-size: 14px !important;
+  font-weight: 400 !important;
+  line-height: 18px !important;
+  letter-spacing: 0.1em !important;
+  color: rgba(33, 36, 44, 0.64) !important;
+  margin: 0 0 37px 0 !important;
+}
+.ka-descreption{
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    display: block !important;
+    font-family: Lato, 'Noto Sans', sans-serif !important;
+    font-size: 11px !important;
+    font-weight: 400 !important;
+    line-height: 17px !important;
+    letter-spacing: 0.08em !important;
+    color: rgba(33, 36, 44, 0.64) !important;
+    margin: 14px 0 0 0 !important;
+}
+.smquote{
+    color: #21242c !important;
+    display: block !important;
+    font-family: 'Source Serif Pro', 'Noto Serif', serif !important;
+    font-size: 24px !important;
+    font-weight: 400 !important;
+    line-height: 32px !important;
+    letter-spacing: -0.1px !important;
+    text-indent: -0.35em !important;
+    text-align: left;
+}
+.smdevicebutton{
+  height: 38px;
+  width: 182px;
+  background-color: #1865f2;
+}
+.smdevicebutton2{
+  height: 38px;
+  width: 182px;
+}
